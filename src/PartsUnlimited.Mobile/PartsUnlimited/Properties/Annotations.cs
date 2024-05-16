@@ -32,6 +32,7 @@ using System;
 
 namespace PartsUnlimited.Annotations
 {
+  //Comentario
   /// <summary>
   /// Indicates that the value of the marked element could be <c>null</c> sometimes,
   /// so the check for <c>null</c> is necessary before its usage.
